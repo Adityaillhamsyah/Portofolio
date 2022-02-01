@@ -1,0 +1,32 @@
+
+.jumbotron{
+    padding-top: 10rem;
+    padding-bottom: 2rem;
+    background-color: #a9a9a9;
+    
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ppp{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+}
+.rounded-circle{
+    border: 6px solid #333333;
+}
+.inigallery{
+    background-color: #a9a9a9;
+}
+.container2{
+    background-color: #a9a9a9;
+}
+.container3{
+    background-color: #a9a9a907;
+    font-size: 18px;
+}
